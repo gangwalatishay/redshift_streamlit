@@ -1,9 +1,6 @@
 streamlit
-random
-os
 xgboost
 numpy
 pandas
 scikit-learn
 joblib
-time
